@@ -1,0 +1,5 @@
+name = "BrainRegistry"
+uuid = "90d52e2e-34ae-458a-9ac5-c0a9c41d363a"
+repo = "https://github.com/gfayebedrin/BrainRegistry.jl"
+
+[packages]
