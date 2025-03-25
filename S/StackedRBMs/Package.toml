@@ -1,0 +1,3 @@
+name = "StackedRBMs"
+uuid = "510a6afa-0cce-43b2-a064-ef42a99433c5"
+repo = "https://github.com/gfayebedrin/StackedRBMs.jl.git"

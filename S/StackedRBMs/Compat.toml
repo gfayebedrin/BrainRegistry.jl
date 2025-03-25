@@ -1,0 +1,7 @@
+[0]
+ConditionalSwaps = "2"
+MetropolisRules = "1"
+Optimisers = "0.4.5 - 0.4"
+RestrictedBoltzmannMachines = "3"
+Tail2Front2 = "1"
+julia = "1.11.0 - 1"
