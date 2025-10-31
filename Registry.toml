@@ -7,3 +7,4 @@ repo = "https://github.com/gfayebedrin/BrainRegistry.jl"
 510a6afa-0cce-43b2-a064-ef42a99433c5 = { name = "StackedRBMs", path = "S/StackedRBMs" }
 839e1aa6-2547-4afa-a76a-d5481123c40a = { name = "BrainRBM", path = "B/BrainRBM" }
 9ad7a2e2-e94d-414e-b0fb-bae07cc55f5f = { name = "BrainGraph", path = "B/BrainGraph" }
+bfa31696-7586-4689-9387-6c23d6d4ad35 = { name = "HMMRBM", path = "H/HMMRBM" }
